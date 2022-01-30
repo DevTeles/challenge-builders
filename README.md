@@ -30,6 +30,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Expo
 - TypeScript
 - Axios
+- react-native-maps
+- jest (@testing-library/react-native)
 
 ---
 
